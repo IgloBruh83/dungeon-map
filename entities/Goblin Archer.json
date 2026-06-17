@@ -1,0 +1,63 @@
+{
+  "id": 0,
+  "spriteUrl": "graphics/unitGraphics/Goblin_Archer.png",
+  "transform": {
+    "pos": [
+      0,
+      0
+    ],
+    "scale": 1,
+    "rotation": 0
+  },
+  "info": {
+    "name": "Goblin_Archer",
+    "displayName": "Гоблин Лучник",
+    "entityType": "Humanoid",
+    "fraction": "Enemy",
+    "size": "Small"
+  },
+  "flags": {
+    "visible": true,
+    "movable": true,
+    "alive": true,
+    "nameVisible": true
+  },
+  "stats": {
+    "armor": 14,
+    "initiativeBonus": 0,
+    "atr": {
+      "STR": 5,
+      "DEX": 16,
+      "CON": 12,
+      "INT": 8,
+      "WIS": 10,
+      "CHA": 6
+    },
+    "resistances": [],
+    "vulnerabilities": [],
+    "immunities": []
+  },
+  "resources": {
+    "health": [
+      16,
+      16
+    ],
+    "barrier": [
+      0,
+      0
+    ],
+    "movement": [
+      9,
+      9
+    ],
+    "action": [
+      1,
+      1
+    ],
+    "bonusAction": [
+      1,
+      1
+    ],
+    "reaction": true
+  }
+}

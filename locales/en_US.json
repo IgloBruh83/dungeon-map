@@ -1,0 +1,84 @@
+{
+    "ui": {
+        "tabs": {
+            "tabletop": "Tabletop"
+        },
+        "subwindows": {
+            "spawnMenu": "Spawn Entity",
+            "damageMenu": "Damage / Healing"
+        },
+        "buttonTooltips": {
+            "toggleGrid": "Toggle Grid",
+            "handTool": "Grab Mode",
+            "spawnMenu": "Spawn Entity",
+            "damageMenu": "Damage Entity"
+        },
+        "entityActions": {
+            "mirror": "Mirror",
+            "delete": "Delete"
+        },
+        "misc": {
+            "searchBar": "Search..."
+        }
+    },
+    "enums": {
+        "damageType": {
+            "True": "True",
+            "Bludgeoning": "Bludgeoning",
+            "Piercing": "Piercing",
+            "Slashing": "Slashing",
+            "Acid": "Acid",
+            "Fire": "Fire",
+            "Cold": "Cold",
+            "Force": "Force",
+            "Lightning": "Lightning",
+            "Necrotic": "Necrotic",
+            "Poison": "Poison",
+            "Psychic": "Psychic",
+            "Radiant": "Radiant",
+            "Thunder": "Thunder"
+        },
+        "fraction": {
+            "NPC": "NPC",
+            "Neutral": "Neutral",
+            "Party": "Party",
+            "Ally": "Ally",
+            "Enemy": "Enemy",
+            "Boss": "Boss"
+        },
+        "entityType": {
+            "Aberration": "Aberration",
+            "Beast": "Beast",
+            "Celestial": "Celestial",
+            "Construct": "Construct",
+            "Dragon": "Dragon",
+            "Elemental": "Elemental",
+            "Fey": "Fey",
+            "Fiend": "Fiend",
+            "Giant": "Giant",
+            "Humanoid": "Humanoid",
+            "Monstrosity": "Monstrosity",
+            "Ooze": "Ooze",
+            "Plant": "Plant",
+            "Undead": "Undead"
+        },
+        "sizeCategory": {
+            "Tiny": "Tiny",
+            "Small": "Small",
+            "Medium": "Medium",
+            "Large": "Large",
+            "Huge": "Huge",
+            "Gargantuan": "Gargantuan",
+            "Colossal": "Colossal"
+        }
+    },
+    "entityUi": {
+        "healthTips": {
+            "5": "Full Health",
+            "4": "Damaged",
+            "3": "Wounded",
+            "2": "Badly Wounded",
+            "1": "Almost Dead"
+        }
+    }
+}
